@@ -1,0 +1,3 @@
+### PracaDomowa 
+Flask Perceptron
+RTA
